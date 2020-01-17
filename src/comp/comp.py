@@ -36,7 +36,6 @@ print(b)
 # Write a list comprehension that creates a list of names of everyone
 # whose name starts with any letter between 'C' and 'G' inclusive.
 print("Starts between C and G, inclusive:")
-list_of_words = ["C", "D", "E", "F", "G"]
 c = []
 print(c)
 
